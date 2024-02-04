@@ -15,3 +15,5 @@ While this clone is not functional for actual shopping, it serves as a valuable 
 
 Author - Albino Kaushik 
 dated - 03-02-2024
+
+<img src="/Amazon-Clone.png">
