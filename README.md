@@ -14,6 +14,7 @@ While this clone is not functional for actual shopping, it serves as a valuable 
  clone was both challenging and rewarding, and it deepened my understanding of web design principles.</p>
 
 Author - Albino Kaushik 
+<br>
 dated - 03-02-2024
 
 <img src="/Amazon-Clone.png">
