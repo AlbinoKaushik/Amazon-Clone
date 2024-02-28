@@ -17,4 +17,4 @@ Author - Albino Kaushik
 <br>
 dated - 03-02-2024
 
-<img src="/Amazon-Clone.png">
+<img src="/Amazon-Clone.jpg">
